@@ -59,6 +59,10 @@
 - [Redis](https://github.com/modelcontextprotocol/servers/tree/main/src/redis) - <img src="./images/languages/typescript.svg" > A Model Context Protocol server that provides access to Redis databases. This server enables LLMs to interact with Redis key-value stores through a set of standardized tools.
 - [SQLite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - <img src="./images/languages/python.svg" > A Model Context Protocol (MCP) server implementation that provides database interaction and business intelligence capabilities through SQLite. This server enables running SQL queries, analyzing business data, and automatically generating business insight memos.
 
+### finance 💹
+
+- [Base L2 Agent Kit](https://github.com/manteclaw/litcoiin-solutions) - MCP server for Base L2 DeFi operations with 9 monetized endpoints (gas estimates, yield farming, token analysis, contract audit, wallet health, DEX quotes, price feeds, mnemonic generation) 🟢 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ☁️ 🏠
+
 ### images
 
 - [EverArt](https://github.com/modelcontextprotocol/servers/tree/main/src/everart) - <img src="./images/languages/typescript.svg" > Image generation server using EverArt's API.
