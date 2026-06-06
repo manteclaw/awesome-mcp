@@ -61,7 +61,7 @@
 
 ### finance 💹
 
-- [Base L2 Agent Kit](https://github.com/manteclaw/litcoiin-solutions) - MCP server for Base L2 DeFi operations with 9 monetized endpoints (gas estimates, yield farming, token analysis, contract audit, wallet health, DEX quotes, price feeds, mnemonic generation) 🟢 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ☁️ 🏠
+- [Base L2 Agent Kit](https://github.com/manteclaw/base-l2-agent-kit-mcp) - MCP server providing Base L2 DeFi tools — wallet management, token swaps, liquidity provision, price feeds, contract interaction, and flash loan arbitrage. <img src="./images/languages/python.svg" >
 
 ### images
 
